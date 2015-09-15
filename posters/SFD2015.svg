@@ -18,8 +18,8 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="SFD2015.svg"
    inkscape:export-filename="/home/bigeagle/workspace/tuna/artwork/posters/SFD2015.png"
-   inkscape:export-xdpi="34.169083"
-   inkscape:export-ydpi="34.169083">
+   inkscape:export-xdpi="42.75671"
+   inkscape:export-ydpi="42.75671">
   <defs
      id="defs5415">
     <linearGradient
@@ -1103,15 +1103,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="-311.97834"
-     inkscape:cy="480.1914"
+     inkscape:cx="1183.7111"
+     inkscape:cy="926.90554"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1916"
-     inkscape:window-height="1033"
+     inkscape:window-height="1036"
      inkscape:window-x="0"
      inkscape:window-y="22"
      inkscape:window-maximized="0"
@@ -1144,7 +1144,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1757,17 +1757,17 @@
     <text
        sodipodi:linespacing="125%"
        id="text7621"
-       y="955.18622"
+       y="929.18622"
        x="48.67395"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.34594345px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;fill:#f9fcdb;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.34594345px;line-height:125%;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';letter-spacing:0px;word-spacing:0px;fill:#f9fcdb;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:22.32137299px;fill:#f9fcdb;fill-opacity:1;"
+         style="font-size:22.32137299px;fill:#f9fcdb;fill-opacity:1"
          id="tspan7625"
-         y="955.18622"
+         y="929.18622"
          x="48.67395"
          sodipodi:role="line">主办: 清华大学 TUNA 协会 </tspan><tspan
-         style="font-size:22.32137299px;fill:#f9fcdb;fill-opacity:1;"
-         y="983.08795"
+         style="font-size:22.32137299px;fill:#f9fcdb;fill-opacity:1"
+         y="957.08795"
          x="48.67395"
          sodipodi:role="line"
          id="tspan34079">协办: 北京 GNU/Linux 用户组</tspan></text>
@@ -1800,7 +1800,7 @@
          y="850.66913"
          x="749.01562"
          sodipodi:role="line"
-         id="tspan4269">地点: 中央还没有决定 </tspan><tspan
+         id="tspan4269">地点:   新水-300            </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Han Sans CN';-inkscape-font-specification:'Source Han Sans CN Bold';text-align:end;text-anchor:end;fill:#fffa2b;fill-opacity:1"
          y="906.47253"
          x="738.90125"
@@ -1916,7 +1916,7 @@
     </g>
     <g
        id="g28726"
-       transform="matrix(1.1946365,0,0,1.1946365,523.26749,-108.32522)">
+       transform="matrix(1.1946365,0,0,1.1946365,523.26749,-134.32522)">
       <path
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
@@ -1961,7 +1961,7 @@
     <g
        id="layer1-5"
        style="display:inline;fill:#f9fcdb;fill-opacity:1"
-       transform="matrix(0.14365825,0,0,0.14365825,472.3895,1073.7401)">
+       transform="matrix(0.14365825,0,0,0.14365825,472.3895,1047.7401)">
       <path
          id="path2320"
          style="fill:#f9fcdb;fill-opacity:1"
@@ -1971,13 +1971,13 @@
     </g>
     <g
        id="g32558"
-       transform="translate(36.365224,6.4209887)">
+       transform="translate(36.365224,-19.579011)">
       <g
          id="g34073"
          transform="translate(-12.5,-0.50000001)">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9fcdb;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9fcdb;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="390.94238"
            y="1025.13"
            id="text32508"
@@ -1986,7 +1986,7 @@
              id="tspan32510"
              x="390.94238"
              y="1025.13"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:-0.88999999px;fill:#f9fcdb;fill-opacity:1;">ubuntu</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:-0.88999999px;fill:#f9fcdb;fill-opacity:1">ubuntu</tspan></text>
         <path
            style="fill:#f9fcdb;fill-opacity:1"
            inkscape:connector-curvature="0"
@@ -2001,7 +2001,7 @@
     </g>
     <g
        id="g32553"
-       transform="matrix(0.87763362,0,0,0.87763362,443.66113,131.31843)">
+       transform="matrix(0.87763362,0,0,0.87763362,443.66113,105.31843)">
       <g
          id="g41921">
         <path
@@ -2031,7 +2031,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.99241903,0,0,0.99241903,179.01593,948.73002)"
+       transform="matrix(0.99241903,0,0,0.99241903,179.01593,922.73002)"
        id="layer1-6">
       <g
          id="g33223">
@@ -2081,7 +2081,7 @@
     </g>
     <g
        id="g33997"
-       transform="translate(207.5,6.9189585)">
+       transform="translate(207.5,-19.081042)">
       <g
          id="g34031">
         <g
