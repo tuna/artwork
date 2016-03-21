@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="420mm"
+   viewBox="0 0 1052.3622 1488.189"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="haskell.svg"
+   inkscape:export-filename="/tmp/a/haskell.png"
+   inkscape:export-xdpi="68.398575"
+   inkscape:export-ydpi="68.398575">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clip1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path13118"
+         d="m 0,340.15625 481.89062,0 L 481.89062,0 0,0 0,340.15625 Z m 0,0" />
+    </clipPath>
+    <linearGradient
+       gradientTransform="translate(758,1.28)"
+       y2="96.620499"
+       x2="-675.07538"
+       y1="96.4384"
+       x1="-675.07538"
+       gradientUnits="userSpaceOnUse"
+       id="SVGID_1_">
+      <stop
+         id="stop29553"
+         style="stop-color:#F29100"
+         offset="0" />
+      <stop
+         id="stop29555"
+         style="stop-color:#EC670F"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9182">
+      <stop
+         id="stop9184"
+         offset="0"
+         style="stop-color:#55c7ff;stop-opacity:1;" />
+      <stop
+         id="stop9186"
+         offset="1"
+         style="stop-color:#2b69ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(190.60693,0,0,190.60693,-234.07121,40.419435)"
+       spreadMethod="pad"
+       id="linearGradient5892">
+      <stop
+         style="stop-opacity:1;stop-color:#19e1fe"
+         offset="0"
+         id="stop5894" />
+      <stop
+         style="stop-opacity:1;stop-color:#19b5fe"
+         offset="1"
+         id="stop5896" />
+    </linearGradient>
+    <radialGradient
+       id="radialGradient72-9"
+       spreadMethod="pad"
+       gradientTransform="matrix(153.35164,0,0,153.35164,185.94709,-313.36527)"
+       gradientUnits="userSpaceOnUse"
+       r="1"
+       cy="0"
+       cx="0"
+       fy="0"
+       fx="0">
+      <stop
+         id="stop74-4"
+         offset="0"
+         style="stop-opacity:1;stop-color:#339dff" />
+      <stop
+         id="stop76-9"
+         offset="1"
+         style="stop-opacity:1;stop-color:#4552ff" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.17592775,0.58506428,-0.58766499,0.17670255,62.742656,137.86286)"
+       r="95.449026"
+       fy="-4.6746378"
+       fx="158.60139"
+       cy="-4.6746378"
+       cx="158.60139"
+       id="radialGradient6635"
+       xlink:href="#linearGradient5892"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="275.7882"
+     inkscape:cy="798.51005"
+     inkscape:document-units="px"
+     inkscape:current-layer="g29405"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1916"
+     inkscape:window-height="1033"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#23333d;fill-opacity:1;stroke:none;stroke-width:23.52700043;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect20689"
+       width="1052.3894"
+       height="1488.0809"
+       x="0.063134782"
+       y="0.10799808"
+       ry="0"
+       rx="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="background 1">
+    <g
+       id="g29433"
+       transform="matrix(0.58566198,0,0,0.58566198,72.876078,216.78347)">
+      <g
+         transform="translate(-422.17012,-51.56433)"
+         id="g29405">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:69.12979889px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="399.5101"
+           y="769.74298"
+           id="text29854"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan29856"
+             x="399.5101"
+             y="769.74298"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffffff;fill-opacity:1"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Bold';fill:#4acad1;fill-opacity:1"
+               id="tspan29914">import</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Bold'"
+               id="tspan30266"> TUNA</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="399.5101"
+             y="856.15521"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffffff;fill-opacity:1"
+             id="tspan29884" /><tspan
+             sodipodi:role="line"
+             x="399.5101"
+             y="942.5675"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffffff;fill-opacity:1"
+             id="tspan29886"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#b4e439;fill-opacity:1"
+   id="tspan30022">main</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Bold';fill:#fc2269;fill-opacity:1"
+   id="tspan30182"> ::</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#4acad1;fill-opacity:1"
+   id="tspan30208"> IO</tspan> ()</tspan><tspan
+             sodipodi:role="line"
+             x="399.5101"
+             y="1028.9797"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffffff;fill-opacity:1"
+             id="tspan29888"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#b4e439;fill-opacity:1"
+               id="tspan30178">main</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Bold';fill:#fc2269;fill-opacity:1"
+               id="tspan30214"> =</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#4acad1;fill-opacity:1"
+               id="tspan30210"> do</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="399.5101"
+             y="1115.392"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffffff;fill-opacity:1"
+             id="tspan29890">  talk <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Bold';fill:#fc2269;fill-opacity:1"
+   id="tspan30216">&lt;-</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#4acad1;fill-opacity:1"
+   id="tspan30212"> FunctionalProgrammingTalk</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Bold';fill:#fc2269;fill-opacity:1"
+   id="tspan30218"> &lt;$&gt;</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="399.5101"
+             y="1201.8042"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffffff;fill-opacity:1"
+             id="tspan4217" /><tspan
+             sodipodi:role="line"
+             x="399.5101"
+             y="1288.2164"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffffff;fill-opacity:1"
+             id="tspan29898">    title <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffdb6b;fill-opacity:1"
+   id="tspan30254">&quot;Haskell函数式编程入门&quot;</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Bold';fill:#fc2269;fill-opacity:1"
+   id="tspan30230"> &lt;*&gt;</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="399.5101"
+             y="1375.3593"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffffff;fill-opacity:1"
+             id="tspan29900">    motto <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffdb6b;fill-opacity:1"
+   id="tspan30256">&quot;类型是人类的好朋友！&quot;</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Bold';fill:#fc2269;fill-opacity:1"
+   id="tspan30232"> &lt;*&gt;</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="399.5101"
+             y="1462.502"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffffff;fill-opacity:1"
+             id="tspan29902">    lecturer <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffdb6b;fill-opacity:1"
+   id="tspan30258">&quot;邵成&quot; </tspan><tspan
+   id="tspan4231"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Bold';fill:#fc2269;fill-opacity:1">&lt;*&gt;</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="399.5101"
+             y="1549.6448"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffffff;fill-opacity:1"
+             id="tspan4246" /><tspan
+             sodipodi:role="line"
+             x="399.5101"
+             y="1636.7875"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffffff;fill-opacity:1"
+             id="tspan4240">    date <tspan
+   style="fill:#ffdb6b;fill-opacity:1"
+   id="tspan4252">&quot;2016-03-26&quot;</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Bold';fill:#fc2269;fill-opacity:1"
+   id="tspan4260"> &lt;*&gt;</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="399.5101"
+             y="1723.1997"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffffff;fill-opacity:1"
+             id="tspan4242">    time <tspan
+   style="fill:#ffdb6b;fill-opacity:1"
+   id="tspan4254">&quot;14:30&quot;</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Bold';fill:#fc2269;fill-opacity:1"
+   id="tspan4264"> &lt;*&gt;</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="399.5101"
+             y="1809.6119"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffffff;fill-opacity:1"
+             id="tspan4244">    place (<tspan
+   style="fill:#ffdb6b;fill-opacity:1"
+   id="tspan4256">&quot;清华大学&quot;</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Bold';fill:#fc2269;fill-opacity:1"
+   id="tspan4270"> &amp;</tspan><tspan
+   style="fill:#ffdb6b;fill-opacity:1"
+   id="tspan4258"> &quot;四教4302&quot;</tspan>)</tspan><tspan
+             sodipodi:role="line"
+             x="399.5101"
+             y="1896.7548"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffffff;fill-opacity:1"
+             id="tspan4221" /><tspan
+             sodipodi:role="line"
+             x="399.5101"
+             y="1983.8975"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline Medium';fill:#ffffff;fill-opacity:1"
+             id="tspan29904">  perform talk</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.53097257,0,0,0.53097257,660.76821,1293.0384)"
+       id="layer1-1"
+       inkscape:label="Layer 1">
+      <g
+         id="g30427"
+         transform="translate(14.63108,0)">
+        <g
+           id="g30449"
+           transform="translate(-57.079571,0)">
+          <g
+             id="g4278"
+             transform="translate(96.373521,0)">
+            <path
+               inkscape:export-ydpi="19.55286"
+               inkscape:export-xdpi="19.55286"
+               inkscape:export-filename="/home/bigeagle/workspace/tuna/mirror-web/static/img/logo-small.png"
+               style="fill:#bee2e9;fill-opacity:1;stroke:none"
+               d="m 33.623012,254.54433 c -7.256655,2.10422 -11.276238,2.96459 -17.272232,7.5127 -4.258967,3.14443 -8.5596571,8.53022 -8.5596571,8.53022 0,0 6.7540141,-3.45517 12.3578671,-4.69049 5.603769,-1.23524 8.192808,-1.37353 9.946434,-1.22839 0.350334,-3.28548 2.630578,-7.24073 3.527588,-10.12404 z"
+               id="path9214"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccccc" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path5880"
+               style="fill:url(#radialGradient6635);fill-opacity:1;stroke:none"
+               d="m 29.172824,267.62587 c 0,26.65707 20.776972,48.45761 47.020355,50.10013 l 0,0 C 42.481337,314.66215 41.955672,290.83954 51.272366,280.78783 l 0,0 C 71.759431,258.68283 114.3465,262.0962 114.3465,231.60976 l 0,0 c -9.04043,-8.77965 -21.373181,-14.18779 -34.970692,-14.18779 l 0,0 c -27.72661,0 -50.202984,22.47683 -50.202984,50.2039" />
+            <path
+               inkscape:export-ydpi="19.55286"
+               inkscape:export-xdpi="19.55286"
+               inkscape:export-filename="/home/bigeagle/workspace/tuna/mirror-web/static/img/logo-small.png"
+               style="fill:#4f9cc5;fill-opacity:1;stroke:none"
+               d="m 66.626753,232.19389 c 0,0 -5.029031,5.87275 -8.834544,10.90226 -2.754328,3.64021 -7.62497,6.39187 -13.888662,8.69656 -5.600395,2.06056 -13.235088,3.62469 -13.235088,3.62469 0,0 1.147193,-5.09539 2.534068,-5.92926 3.659481,-2.2001 33.424226,-17.29425 33.424226,-17.29425 z"
+               id="path9200"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="csscsc" />
+            <path
+               inkscape:export-ydpi="19.55286"
+               inkscape:export-xdpi="19.55286"
+               inkscape:export-filename="/home/bigeagle/workspace/tuna/mirror-web/static/img/logo-small.png"
+               style="fill:#bee2e9;fill-opacity:1;stroke:none"
+               d="m 64.584084,269.53339 c -4.437992,4.44681 -5.0097,5.71886 -6.365598,9.89984 -1.856325,5.72464 -1.030237,14.21394 -1.030237,14.21394 0,0 -1.960353,-1.88971 -3.495718,-7.51563 -1.179796,-4.32266 -1.019965,-7.90068 -1.019965,-7.90068 0,0 1.161434,-2.67647 4.727716,-5.29689 3.566197,-2.62049 7.183802,-3.40058 7.183802,-3.40058 z"
+               id="path9226"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cscscsc" />
+            <path
+               inkscape:export-ydpi="19.55286"
+               inkscape:export-xdpi="19.55286"
+               inkscape:export-filename="/home/bigeagle/workspace/tuna/mirror-web/static/img/logo-small.png"
+               style="fill:#815cb7;fill-opacity:1;stroke:none"
+               d="m 96.230867,258.55761 c -0.03991,4.52614 0.239125,6.51297 -0.158617,11.97916 -0.373322,5.13037 -2.298164,9.14317 -2.298164,9.14317 0,0 0.079,-4.12922 -0.55475,-7.46432 -0.634013,-3.33511 -4.477586,-9.79658 -4.477586,-9.79658 0,0 0.889019,-0.10913 3.444952,-1.35121 2.92508,-1.42164 4.044165,-2.51022 4.044165,-2.51022 z"
+               id="path9240"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cscscsc" />
+            <ellipse
+               style="fill:#ffffff;fill-opacity:1;stroke:none"
+               id="path5116"
+               inkscape:export-filename="/home/bigeagle/workspace/tuna/mirror-web/static/img/logo-small.png"
+               inkscape:export-xdpi="19.55286"
+               inkscape:export-ydpi="19.55286"
+               cx="96.683952"
+               cy="230.78284"
+               rx="3.0780215"
+               ry="2.9422264" />
+            <rect
+               style="fill:#9c5cb7;fill-opacity:1;stroke:none"
+               id="rect5118"
+               width="94.65255"
+               height="6.3739104"
+               x="42.837559"
+               y="320.29034"
+               ry="0.15143113" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.90791035px;line-height:125%;font-family:sans;-inkscape-font-specification:sans;letter-spacing:0.49079105px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               x="44.673683"
+               y="325.04108"
+               id="text5120"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan5122"
+                 x="44.673683"
+                 y="325.04108"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Han Sans CN';-inkscape-font-specification:'Source Han Sans CN Bold';letter-spacing:0px;fill:#ffffff;fill-opacity:1">Tsinghua University TUNA Association</tspan></text>
+            <path
+               inkscape:connector-curvature="0"
+               id="path24-1"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 72.320202,308.92469 c 0,6.10311 1.62522,8.21758 4.479709,8.21758 1.528741,0 2.67472,-0.16293 3.739697,-0.49016 l 0,0.23712 c -1.211071,0.44556 -2.612828,0.76505 -4.205736,0.76505 -2.611907,0 -8.601244,0 -8.601244,-8.98446 l 0,-19.57 -6.453553,0 0,-4.20528 6.453553,0 0,-8.984 4.587574,0 0,8.984 8.219406,0 0,4.20528 -8.219406,0 0,19.82487 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path28-5"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 100.00899,285.3497 0,19.32425 c 0,8.85657 -1.942441,12.97992 -8.765546,12.97992 -6.60283,0 -8.765996,-4.12335 -8.765996,-12.97992 l 0,-19.32425 4.588024,0 0,18.66888 c 0,6.43534 0.305842,11.18676 4.177972,11.18676 4.007304,0 4.177972,-4.75142 4.177972,-11.18676 l 0,-18.66888 4.587574,0 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path32-6"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 120.41586,297.3463 0,19.79756 -4.58712,0 0,-23.72938 c 0,-4.85706 -1.60019,-5.72793 -3.93154,-5.72094 -2.33135,0.007 -3.8514,1.00313 -3.8514,5.67664 l 0,23.77368 -4.58758,0 0,-26.07142 c 0,-4.07376 2.61975,-6.23069 8.37852,-6.296 5.6461,-0.064 8.57912,2.19331 8.57912,6.14734"
+               sodipodi:nodetypes="cccszsccscc" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path36-9"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 135.5534,299.64946 c 0,-0.42794 -0.0912,-0.3823 -2.02982,-0.3823 -3.82298,0 -6.52636,2.26694 -6.52636,8.12838 0,6.1154 -0.14428,6.89957 4.63308,6.89957 3.75653,0 3.9231,-2.7753 3.9231,-6.70887 0,0 0,-5.66058 0,-7.93678 z m 4.13246,-1.62067 0,9.55745 c 0,8.54163 -2.85814,10.06809 -8.05556,10.06809 -8.47518,0 -8.76555,0.52156 -8.76555,-10.25879 0,-10.51319 8.23762,-10.44902 11.16856,-10.44902 2.86724,0 1.45637,0.31813 1.45637,0.31813 0,-5.98933 0.5416,-9.89423 -4.75142,-9.89423 -2.69064,0 -5.19378,0.85335 -6.57187,1.70213 l 0,-2.1841 c 2.00433,-1.36717 4.16568,-2.11219 6.82674,-2.11219 8.92029,0 8.69273,6.40803 8.69273,13.25253"
+               sodipodi:nodetypes="sssssscsssscsccsc" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path150-3"
+               style="fill:#815cb7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="M -0.2253005,267.86644 C 10.840401,245.67223 20.903943,233.40093 66.626769,232.18849 c 0,0 -9.578386,10.58055 -13.457347,13.28212 -12.261746,8.54027 -35.555973,5.47096 -53.3947225,22.39583" />
+            <text
+               sodipodi:linespacing="125%"
+               id="text30423"
+               y="295.58084"
+               x="157.41518"
+               style="font-style:normal;font-weight:normal;font-size:43.49631882px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1"
+                 y="295.58084"
+                 x="157.41518"
+                 id="tspan30425"
+                 sodipodi:role="line">清华大学TUNA协会主办</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,435.82677)">
+    <g
+       id="g25156"
+       transform="matrix(4.7852477,0,0,4.7852477,-1318.6221,-996.63931)"
+       style="fill:#f6e026;fill-opacity:1">
+      <g
+         id="g25158"
+         clip-path="url(#clip1)"
+         style="clip-rule:nonzero;fill:#f6e026;fill-opacity:1">
+        <g
+           id="g25160"
+           transform="matrix(0.33442645,0,0,0.33442645,339.0439,177.05366)"
+           style="fill:#f6e026;fill-opacity:1">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#f6bd26;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M -29.994125,146.00978 57.83581,14.266391 -29.994125,-117.47699 l 65.871693,0 87.829932,131.743381 -87.829932,131.743389 -65.871693,0 z m 0,0"
+             id="path25162" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#f6e026;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 58.712174,146.00978 146.54211,14.266391 58.712174,-117.47699 l 65.871696,0 175.65684,263.48677 -65.87169,0 -54.89107,-82.338099 -54.89408,82.338099 -65.871696,0 z m 0,0"
+             id="path25164" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#f6e026;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 270.08972,69.160491 -29.27463,-43.91345 102.46573,-0.002 0,43.91647 -73.1911,0 z m 0,0"
+             id="path25166" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#f6e026;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 226.17627,3.2887915 -29.27766,-43.9134525 146.38221,-0.003 0,43.9164855 -117.10455,0 z m 0,0"
+             id="path25168" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
