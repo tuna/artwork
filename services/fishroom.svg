@@ -1,1 +1,106 @@
-<svg id="Clock" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2272.47 1950.16"><defs><style>.cls-1{fill:#bee2e9;}.cls-2{fill:#19b5fe;}.cls-3{fill:#1e8bc3;}.cls-4{fill:#815cb7;}.cls-5{fill:#fff;}</style></defs><title>fishroom</title><path class="cls-1" d="M2272.14,1105.37a1133.89,1133.89,0,0,0-79.33-391.82H79.67A1132.61,1132.61,0,0,0,.32,1159.17c14.86,627.35,535.47,1123.87,1162.81,1109S2287,1732.71,2272.14,1105.37Z" transform="translate(0 -318.34)"/><g id="Engine"><g id="TUNA"><g id="g9281"><path id="path9177" class="cls-2" d="M1092.63,413.84c-59.78,27.69-114.63,61.91-156.75,98.85C808.28,624.6,750.93,745.33,717,817.78c-65.74,140.3-64.43,332.49-37.47,477.77s117.86,331.11,230.64,449.05,307.39,195.92,423.27,215.42c151.61,25.2,308.75-6.3,442.24-67.2a980.22,980.22,0,0,1-97.15,31.62c-89.31,23.82-187.25,34.86-285.8,17.31-101.83-22.55-134.79-47.48-181.09-97.27s-77.75-138.92-80.72-202.53c-3.15-67.49,39.15-180.34,105.54-293.35s185.91-238.23,302.05-354.24S1738,751.5,1773.83,621.8c33.2-120.36-21.23-249.17-21.23-249.17s-88.51-40.75-199-51.1c-64.24-6-160.44-7-292.23,29-45,12.28-108.94,35.59-168.72,63.28Z" transform="translate(0 -318.34)"/><path id="path9200" class="cls-3" d="M1043.26,688.37S1035,848,989.78,944.52c-30.93,66-60.25,115.15-135.93,190.09-67.66,67-176.53,144.11-176.53,144.11s-19.4-96.59-4.79-117.89C711.09,1104.66,1043.26,688.37,1043.26,688.37Z" transform="translate(0 -318.34)"/><path id="path9198" class="cls-4" d="M1042.54,689.8s-19.4,134.2-63.19,221S851,1117,710,1198s-250.7,175.65-311.65,267.53-99.28,184.58-99.28,184.58S305.42,1469,343,1332s145.32-283.89,259.68-384.5c108.22-95.2,320.89-192.38,439.83-257.75Z" transform="translate(0 -318.34)"/><path id="path9240" class="cls-4" d="M1644.79,908.52c29.4,66,46.61,93,77,175,28.56,77,27.19,148,27.19,148s-26.2-60.47-57.49-104.7-129.89-112.58-129.89-112.58,12.18-7.47,41.07-42.43C1635.75,931.74,1644.79,908.52,1644.79,908.52Z" transform="translate(0 -318.34)"/></g><path id="path5116" class="cls-5" d="M1528.37,450.41c13.26,29-.58,63.76-30.92,77.63s-65.69,1.61-78.95-27.39l0-.09c-13.26-29,.58-63.76,30.92-77.63s65.69-1.61,78.95,27.39Z" transform="translate(0 -318.34)"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2272.5 2272.5" style="enable-background:new 0 0 2272.5 2272.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#BEE2E9;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{fill:#19B5FE;}
+	.st3{fill:#1E8BC3;}
+	.st4{fill:#815CB7;}
+	.st5{fill:#FFFFFF;}
+	.st6{opacity:0.92;fill:#C1DEE5;}
+	.st7{fill:#9F9BCD;}
+	.st8{fill:#58C3E8;}
+	.st9{fill:#1FB5F0;}
+	.st10{fill:#A2D8E5;}
+	.st11{fill:#BFDEE4;}
+	.st12{fill:#BCDEE2;}
+	.st13{opacity:0.88;fill:#BEDFE5;}
+	.st14{opacity:0.61;fill:#BFE0E5;}
+	.st15{fill:#BBD2E2;}
+	.st16{fill:#97D7E6;}
+	.st17{fill:#35BAEF;}
+	.st18{fill:#BFDDE3;}
+	.st19{fill:#BEDDE4;}
+	.st20{opacity:0.44;fill:#BFDDE4;}
+	.st21{opacity:0.83;fill:#C0E1E4;}
+	.st22{fill:#BDDDE2;}
+	.st23{fill:#99D5E6;}
+	.st24{fill:#A5D9E4;}
+	.st25{fill:#B9DCE4;}
+	.st26{opacity:0.6;fill:#C1DFE4;}
+	.st27{opacity:0.62;fill:#BAE0E4;}
+	.st28{opacity:0.95;fill:#BFDEE4;}
+	.st29{opacity:0.89;fill:#C0E0E3;}
+	.st30{opacity:0.43;fill:#C0E1E6;}
+</style>
+<g id="Clock">
+	<defs>
+		<rect id="SVGID_1_" x="1.4" width="2271" height="1250.1"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st0" d="M2272.1,1105.4c-3.3-138.3-31.2-270.3-79.3-391.8H79.7C25.1,851.2-3.4,1001.8,0.3,1159.2
+		c14.9,627.3,535.5,1123.9,1162.8,1109S2287,1732.7,2272.1,1105.4z"/>
+	<g id="Engine" class="st1">
+		<g id="TUNA" transform="translate(-0.54368288,98.464137)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+			<g id="g9281" transform="matrix(1.9893579,0,0,1.9933073,-2301.215,-4776.9484)">
+				
+					<path id="path9177" inkscape:connector-curvature="0" inkscape:export-filename="/home/bigeagle/workspace/tuna/mirror-web/static/img/logo-small.png" inkscape:export-xdpi="19.55286" inkscape:export-ydpi="19.55286" sodipodi:nodetypes="scsssccscssssscsss" class="st2" d="
+					M1706.3,2554.7c-30,13.9-57.6,31.1-78.8,49.6c-64.1,56.1-93,116.7-110,153.1c-33,70.4-32.4,166.8-18.8,239.7
+					s59.2,166.1,115.9,225.3c56.7,59.2,154.5,98.3,212.8,108.1c76.2,12.6,155.2-3.2,222.3-33.7c-15.5,5.9-31.9,11.3-48.8,15.9
+					c-44.9,11.9-94.1,17.5-143.7,8.7c-51.2-11.3-67.8-23.8-91-48.8c-23.3-25-39.1-69.7-40.6-101.6c-1.6-33.9,19.7-90.5,53.1-147.2
+					c33.4-56.7,93.5-119.5,151.8-177.7s100.3-121.8,118.3-186.9c16.7-60.4-10.7-125-10.7-125s-44.5-20.4-100-25.6
+					c-32.3-3-80.7-3.5-146.9,14.6C1768.5,2529.1,1736.3,2540.8,1706.3,2554.7L1706.3,2554.7z"/>
+				
+					<path id="path9200" inkscape:connector-curvature="0" inkscape:export-filename="/home/bigeagle/workspace/tuna/mirror-web/static/img/logo-small.png" inkscape:export-xdpi="19.55286" inkscape:export-ydpi="19.55286" sodipodi:nodetypes="csscsc" class="st3" d="
+					M1681.5,2692.4c0,0-4.1,80.1-26.9,128.5c-15.5,33.1-30.3,57.8-68.3,95.4c-34,33.6-88.7,72.3-88.7,72.3s-9.8-48.5-2.4-59.1
+					C1514.5,2901.3,1681.5,2692.4,1681.5,2692.4z"/>
+				
+					<path id="path9198" inkscape:connector-curvature="0" inkscape:export-filename="/home/bigeagle/workspace/tuna/mirror-web/static/img/logo-small.png" inkscape:export-xdpi="19.55286" inkscape:export-ydpi="19.55286" sodipodi:nodetypes="cssscssc" class="st4" d="
+					M1681.1,2693.2c0,0-9.8,67.3-31.8,110.9c-22,43.6-64.5,103.4-135.4,144.1c-70.9,40.6-126,88.1-156.7,134.2
+					c-30.6,46.1-49.9,92.6-49.9,92.6s3.2-90.9,22.1-159.6c18.9-68.7,73.1-142.4,130.5-192.9
+					C1514.4,2774.7,1621.3,2725.9,1681.1,2693.2L1681.1,2693.2z"/>
+				
+					<path id="path9240" inkscape:connector-curvature="0" inkscape:export-filename="/home/bigeagle/workspace/tuna/mirror-web/static/img/logo-small.png" inkscape:export-xdpi="19.55286" inkscape:export-ydpi="19.55286" sodipodi:nodetypes="cscscsc" class="st4" d="
+					M1983.8,2802.9c14.8,33.1,23.4,46.6,38.7,87.8c14.4,38.6,13.7,74.2,13.7,74.2s-13.2-30.3-28.9-52.5
+					c-15.7-22.2-65.3-56.5-65.3-56.5s6.1-3.7,20.6-21.3C1979.3,2814.5,1983.8,2802.9,1983.8,2802.9z"/>
+			</g>
+			
+				<path id="path5116" inkscape:export-filename="/home/bigeagle/workspace/tuna/mirror-web/static/img/logo-small.png" inkscape:export-xdpi="19.55286" inkscape:export-ydpi="19.55286" sodipodi:cx="222.85715" sodipodi:cy="31.826468" sodipodi:rx="12.142858" sodipodi:ry="11.607142" sodipodi:type="arc" class="st5" d="
+				M1528.9,351.9c13.3,29-0.6,63.8-30.9,77.6c-30.3,13.9-65.7,1.6-78.9-27.4c0,0,0-0.1,0-0.1c-13.3-29,0.6-63.8,30.9-77.6
+				C1480.3,310.6,1515.6,322.9,1528.9,351.9C1528.9,351.9,1528.9,351.9,1528.9,351.9z"/>
+		</g>
+	</g>
+</g>
+<g id="图层_3">
+	<rect x="1.4" y="1250.1" class="st6" width="292.9" height="227.3"/>
+	<rect x="294.3" y="1250.1" class="st7" width="296.5" height="227.3"/>
+	<rect x="590.9" y="1250.1" class="st8" width="296.5" height="227.3"/>
+	<rect x="887.4" y="1250.1" class="st9" width="296.5" height="227.3"/>
+	<rect x="1183.9" y="1250.1" class="st10" width="296.5" height="227.3"/>
+	<rect x="1480.4" y="1250.1" class="st11" width="296.5" height="227.3"/>
+	<rect x="1776.9" y="1250.1" class="st12" width="296.5" height="227.3"/>
+	<rect x="2073.4" y="1250.1" class="st13" width="199" height="228.6"/>
+	<rect x="1.4" y="1477.4" class="st14" width="292.9" height="292.9"/>
+	<rect x="294.3" y="1477.4" class="st15" width="296.5" height="292.9"/>
+	<rect x="590.9" y="1477.4" class="st16" width="296.5" height="292.9"/>
+	<rect x="887.4" y="1477.4" class="st17" width="296.5" height="292.9"/>
+	<rect x="1183.9" y="1477.4" class="st18" width="296.5" height="292.9"/>
+	<rect x="1480.4" y="1477.4" class="st19" width="296.5" height="292.9"/>
+	<rect x="1776.9" y="1477.4" class="st11" width="296.5" height="292.9"/>
+	<rect x="2073.4" y="1478.8" class="st20" width="199" height="292.9"/>
+	<rect x="294.3" y="1770.4" class="st21" width="296.5" height="292.9"/>
+	<rect x="590.9" y="1770.4" class="st22" width="296.5" height="292.9"/>
+	<rect x="887.4" y="1770.4" class="st23" width="296.5" height="292.9"/>
+	<rect x="1183.9" y="1770.4" class="st24" width="296.5" height="292.9"/>
+	<rect x="1480.4" y="1770.4" class="st25" width="296.5" height="292.9"/>
+	<rect x="1776.9" y="1770.4" class="st26" width="296.5" height="292.9"/>
+	<rect x="590.9" y="2063.3" class="st27" width="296.5" height="209.3"/>
+	<rect x="887.4" y="2063.3" class="st28" width="296.5" height="209.3"/>
+	<rect x="1183.9" y="2063.3" class="st29" width="296.5" height="209.3"/>
+	<rect x="1480.4" y="2063.3" class="st30" width="296.5" height="209.3"/>
+</g>
+</svg>
